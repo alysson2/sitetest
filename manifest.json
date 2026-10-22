@@ -1,0 +1,1004 @@
+{
+    "manifest_version": "1.0.23",
+    "title": "Syndev - Software Development Agency Elementor Pro Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.png",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kits.astylers.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.png",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/kits.astylers.com\/syndev\/?elementor_library=pricing",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "page",
+                "additional_template_information": [
+                    "This is a \"Page\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.png",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/kits.astylers.com\/syndev\/?elementor_library=team",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "page",
+                "additional_template_information": [
+                    "This is a \"Page\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.png",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/kits.astylers.com\/syndev\/?elementor_library=blog",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "page",
+                "additional_template_information": [
+                    "This is a \"Page\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.png",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/kits.astylers.com\/syndev\/?elementor_library=contact",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "page",
+                "additional_template_information": [
+                    "This is a \"Page\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Portfolio",
+            "screenshot": "screenshots\/portfolio.png",
+            "source": "templates\/portfolio.json",
+            "preview_url": "https:\/\/kits.astylers.com\/syndev\/?elementor_library=portfolio",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "page",
+                "additional_template_information": [
+                    "This is a \"Page\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.png",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/kits.astylers.com\/syndev\/?elementor_library=services",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "page",
+                "additional_template_information": [
+                    "This is a \"Page\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.png",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/kits.astylers.com\/syndev\/?elementor_library=about",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "page",
+                "additional_template_information": [
+                    "This is a \"Page\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.png",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/kits.astylers.com\/syndev\/?elementor_library=home",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "page",
+                "additional_template_information": [
+                    "This is a \"Page\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.png",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/kits.astylers.com\/syndev\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general",
+                    "exclude\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.png",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/kits.astylers.com\/syndev\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general",
+                    "exclude\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Blog Single",
+            "screenshot": "screenshots\/blog-single.png",
+            "source": "templates\/blog-single.json",
+            "preview_url": "https:\/\/kits.astylers.com\/syndev\/?elementor_library=blog-single",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.png",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/kits.astylers.com\/syndev\/?elementor_library=404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Pro",
+            "version": "4.1.0",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "4.1.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "demo-image-27.jpg",
+            "thumbnail_url": "https:\/\/kits.astylers.com\/syndev\/wp-content\/uploads\/sites\/33\/2026\/09\/demo-image-27-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/blog-single.json",
+                    "name": "Blog Single"
+                }
+            ],
+            "filesize": 249348,
+            "dimensions": [
+                1672,
+                941
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "demo-image-8.jpg",
+            "thumbnail_url": "https:\/\/kits.astylers.com\/syndev\/wp-content\/uploads\/sites\/33\/2026\/09\/demo-image-8-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 143313,
+            "dimensions": [
+                1254,
+                1254
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "demo-image-20.jpg",
+            "thumbnail_url": "https:\/\/kits.astylers.com\/syndev\/wp-content\/uploads\/sites\/33\/2026\/09\/demo-image-20-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 98412,
+            "dimensions": [
+                1536,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "demo-image-9.jpg",
+            "thumbnail_url": "https:\/\/kits.astylers.com\/syndev\/wp-content\/uploads\/sites\/33\/2026\/09\/demo-image-9-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 91644,
+            "dimensions": [
+                1254,
+                1254
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "demo-image-7.jpg",
+            "thumbnail_url": "https:\/\/kits.astylers.com\/syndev\/wp-content\/uploads\/sites\/33\/2026\/09\/demo-image-7-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 91358,
+            "dimensions": [
+                1254,
+                1254
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "demo-image-19.jpg",
+            "thumbnail_url": "https:\/\/kits.astylers.com\/syndev\/wp-content\/uploads\/sites\/33\/2026\/09\/demo-image-19-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 64337,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "demo-image-10.jpg",
+            "thumbnail_url": "https:\/\/kits.astylers.com\/syndev\/wp-content\/uploads\/sites\/33\/2026\/09\/demo-image-10-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 97509,
+            "dimensions": [
+                1254,
+                1254
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "demo-image-29.jpg",
+            "thumbnail_url": "https:\/\/kits.astylers.com\/syndev\/wp-content\/uploads\/sites\/33\/2026\/09\/demo-image-29-800x471.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 104575,
+            "dimensions": [
+                1635,
+                962
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "image-demo3.jpg",
+            "thumbnail_url": "https:\/\/kits.astylers.com\/syndev\/wp-content\/uploads\/sites\/33\/2026\/09\/image-demo3-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 109629,
+            "dimensions": [
+                1122,
+                1402
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "image-demo4.jpg",
+            "thumbnail_url": "https:\/\/kits.astylers.com\/syndev\/wp-content\/uploads\/sites\/33\/2026\/09\/image-demo4-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 106388,
+            "dimensions": [
+                1254,
+                1254
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "image-demo6.jpg",
+            "thumbnail_url": "https:\/\/kits.astylers.com\/syndev\/wp-content\/uploads\/sites\/33\/2026\/09\/image-demo6-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 100732,
+            "dimensions": [
+                1254,
+                1254
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "image-demo2.jpg",
+            "thumbnail_url": "https:\/\/kits.astylers.com\/syndev\/wp-content\/uploads\/sites\/33\/2026\/09\/image-demo2-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 85372,
+            "dimensions": [
+                1448,
+                1086
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "demo-image-30.jpg",
+            "thumbnail_url": "https:\/\/kits.astylers.com\/syndev\/wp-content\/uploads\/sites\/33\/2026\/09\/demo-image-30-800x934.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 95606,
+            "dimensions": [
+                1161,
+                1355
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "demo-image-1.jpg",
+            "thumbnail_url": "https:\/\/kits.astylers.com\/syndev\/wp-content\/uploads\/sites\/33\/2026\/09\/demo-image-1-800x640.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 160242,
+            "dimensions": [
+                1402,
+                1122
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "demo-image-14.jpg",
+            "thumbnail_url": "https:\/\/kits.astylers.com\/syndev\/wp-content\/uploads\/sites\/33\/2026\/09\/demo-image-14-800x667.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 111588,
+            "dimensions": [
+                1374,
+                1145
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "demo-image-13.jpg",
+            "thumbnail_url": "https:\/\/kits.astylers.com\/syndev\/wp-content\/uploads\/sites\/33\/2026\/09\/demo-image-13-800x667.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 128640,
+            "dimensions": [
+                1374,
+                1145
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "demo-image-16.jpg",
+            "thumbnail_url": "https:\/\/kits.astylers.com\/syndev\/wp-content\/uploads\/sites\/33\/2026\/09\/demo-image-16-800x667.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 135932,
+            "dimensions": [
+                1374,
+                1145
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "demo-image-26.jpg",
+            "thumbnail_url": "https:\/\/kits.astylers.com\/syndev\/wp-content\/uploads\/sites\/33\/2026\/09\/demo-image-26-800x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 193865,
+            "dimensions": [
+                1942,
+                809
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "demo-image-22.jpg",
+            "thumbnail_url": "https:\/\/kits.astylers.com\/syndev\/wp-content\/uploads\/sites\/33\/2026\/09\/demo-image-22-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 77498,
+            "dimensions": [
+                1536,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "demo-image-5.jpg",
+            "thumbnail_url": "https:\/\/kits.astylers.com\/syndev\/wp-content\/uploads\/sites\/33\/2026\/09\/demo-image-5-800x915.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 120725,
+            "dimensions": [
+                1173,
+                1341
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "demo-image-15.jpg",
+            "thumbnail_url": "https:\/\/kits.astylers.com\/syndev\/wp-content\/uploads\/sites\/33\/2026\/09\/demo-image-15-800x667.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 182063,
+            "dimensions": [
+                1374,
+                1145
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "image-demo9.jpg",
+            "thumbnail_url": "https:\/\/kits.astylers.com\/syndev\/wp-content\/uploads\/sites\/33\/2026\/09\/image-demo9-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 92612,
+            "dimensions": [
+                1254,
+                1254
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "demo-image-28a.jpg",
+            "thumbnail_url": "https:\/\/kits.astylers.com\/syndev\/wp-content\/uploads\/sites\/33\/2026\/09\/demo-image-28a-800x305.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 216835,
+            "dimensions": [
+                2032,
+                774
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "lorem-logo_g3435-8.png",
+            "thumbnail_url": "https:\/\/kits.astylers.com\/syndev\/wp-content\/uploads\/sites\/33\/2026\/09\/lorem-logo_g3435-8.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 5747,
+            "dimensions": [
+                279,
+                60
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "lorem-logo_g3653-5.png",
+            "thumbnail_url": "https:\/\/kits.astylers.com\/syndev\/wp-content\/uploads\/sites\/33\/2026\/09\/lorem-logo_g3653-5.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 5827,
+            "dimensions": [
+                282,
+                60
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "lorem-logo_g3706-2.png",
+            "thumbnail_url": "https:\/\/kits.astylers.com\/syndev\/wp-content\/uploads\/sites\/33\/2026\/09\/lorem-logo_g3706-2.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 7375,
+            "dimensions": [
+                294,
+                60
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "lorem-logo_g4229-6.png",
+            "thumbnail_url": "https:\/\/kits.astylers.com\/syndev\/wp-content\/uploads\/sites\/33\/2026\/09\/lorem-logo_g4229-6.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 7232,
+            "dimensions": [
+                305,
+                60
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "lorem-logo_g3425-1.png",
+            "thumbnail_url": "https:\/\/kits.astylers.com\/syndev\/wp-content\/uploads\/sites\/33\/2026\/09\/lorem-logo_g3425-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 5996,
+            "dimensions": [
+                279,
+                60
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "demo-image-18.jpg",
+            "thumbnail_url": "https:\/\/kits.astylers.com\/syndev\/wp-content\/uploads\/sites\/33\/2026\/09\/demo-image-18-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 54937,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "lorem-logo_path153-7-0.png",
+            "thumbnail_url": "https:\/\/kits.astylers.com\/syndev\/wp-content\/uploads\/sites\/33\/2026\/08\/lorem-logo_path153-7-0.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2132,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "demo-image-6.jpg",
+            "thumbnail_url": "https:\/\/kits.astylers.com\/syndev\/wp-content\/uploads\/sites\/33\/2026\/09\/demo-image-6-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 117940,
+            "dimensions": [
+                1536,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "syndev-logo.png",
+            "thumbnail_url": "https:\/\/kits.astylers.com\/syndev\/wp-content\/uploads\/sites\/33\/2026\/09\/syndev-logo.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 6493,
+            "dimensions": [
+                201,
+                60
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "demo-image-11.jpg",
+            "thumbnail_url": "https:\/\/kits.astylers.com\/syndev\/wp-content\/uploads\/sites\/33\/2026\/09\/demo-image-11-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 170835,
+            "dimensions": [
+                1536,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        }
+    ]
+}
